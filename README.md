@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://github.com/AUrhino.png" width="120" alt="Ryan Gillan profile photo" />
+<img src="https://github.com/AUrhino/AUrhino/blob/main/ascii_me.png" width="120" alt="Ryan Gillan profile photo" />
+
+
 
 # `AUrhino` - Ryan Gillan
 
