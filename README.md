@@ -89,4 +89,4 @@ Press ENTER to explore repositories...
 $ _
 ```
 
-<sub>Built with Markdown, a little nostalgia and an unreasonable appreciation for green terminal text.</sub>
+<sub>Ok, this is uber nerdy but you have to have fun in life.</sub>
